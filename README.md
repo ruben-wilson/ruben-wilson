@@ -26,6 +26,17 @@ Here are some ideas to get you started:
 -->
 
 
+## Experience
+### Makers Academy (July 2022 to October 2022)
+An intensive 16-week Bootcamp focusing on:
+- Pairing to problem solve efficiently, requiring teamwork and communication.
+- Design concepts such as OPP, TDD, MVC and DDD.
+- We used these to deliver clean code. Practised through code-reviews, using SOLID Principles, i.e Single Responsibility 
+- For example principles like RAG, red, amber, and green allowed me to simple but effective code like in my bank tech test 
+- Agile Development process to build applications dynamically and quickly in a team. Using daily stand-ups and short sprints to keep
+	our projects adaptable and quick to deploy -  this involved tools such as Trello, Miro, GitHub projects and Notion.
+- Learning strategies and fundamental concepts to allow for quick learning of various languages and technologies.
+
 ### 💻 &nbsp;Languages:
 
 ![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript)&nbsp;
