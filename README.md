@@ -1,6 +1,6 @@
-### Hi im Ruben Wilson 
+# Hi im Ruben Wilson 
 
-## A twenty-one-year-old junior developer with a passion for technology. Last year i was training to be marine and now im starting my journey into one of the most exciting and innovative industires 
+### A twenty-one-year-old junior developer with a passion for technology. Last year i was training to be marine and now im starting my journey into one of the most exciting and innovative industires 
 
 ![For hire](https://img.shields.io/badge/Available_for_hire-Yes-brightgreen) ![Contactable](https://img.shields.io/badge/Contactable-Absolutely_Anytime-yellow) ![Status](https://img.shields.io/badge/Status-Actively_searching_for_a_job-ff69b4) ![Last updated](https://img.shields.io/badge/Last_updated-October_2022-blue)
 
