@@ -1,7 +1,7 @@
 ### Hi im Ruben Wilson 
-<p align="center" 
-A twenty-one-year-old junior developer who is highly enthusiastic and driven.
-   </p>
+
+**A twenty-one-year-old junior developer who is highly enthusiastic and driven.
+
 ![For hire](https://img.shields.io/badge/Available_for_hire-Yes-brightgreen) ![Contactable](https://img.shields.io/badge/Contactable-Absolutely_Anytime-yellow) ![Status](https://img.shields.io/badge/Status-Actively_searching_for_a_job-ff69b4) ![Last updated](https://img.shields.io/badge/Last_updated-October_2022-blue)
 
 <p align="center">
