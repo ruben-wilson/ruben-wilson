@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![For hire](https://img.shields.io/badge/Available_for_hire-Yes-brightgreen) ![Contactable](https://img.shields.io/badge/Contactable-Absolutely_Anytime-yellow) ![Status](https://img.shields.io/badge/Status-Actively_searching_for_a_job-ff69b4) ![Last updated](https://img.shields.io/badge/Last_updated-October_2022-blue)
 <!--
 **ruben-wilson/ruben-wilson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
