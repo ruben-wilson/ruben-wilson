@@ -3,7 +3,9 @@
 ### A twenty-one-year-old junior developer with a passion for technology. After recenlty completing Makers Bootcamp im excitedly waiting to land my first tech role! follow me to see how my journey goes.
 
 - 🔭 I’m currently working on [Tasks-App](https://github.com/ruben-wilson/tasks-app) 
--  📫 How to reach me: rwilson_connell@gmail.com
+- 📫 How to reach me: rwilson_connell@gmail.com
+- 📋 My External [CV](https://github.com/ruben-wilson/CV/blob/master/Makers%20CV-%20Software%20Engineer%20.pdf)
+- 🐙 My Github [CV](https://github.com/ruben-wilson/CV/blob/master/README.md)
 
 ![For hire](https://img.shields.io/badge/Available_for_hire-Yes-brightgreen) ![Contactable](https://img.shields.io/badge/Contactable-Absolutely_Anytime-yellow) ![Status](https://img.shields.io/badge/Status-Actively_searching_for_a_job-ff69b4) ![Last updated](https://img.shields.io/badge/Last_updated-October_2022-blue)
 
