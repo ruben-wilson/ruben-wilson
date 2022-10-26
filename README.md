@@ -1,4 +1,4 @@
-# Hi im Ruben Wilson 
+# Hi im Ruben Wilson 👋
 
 ### A twenty-one-year-old junior developer with a passion for technology. After recenlty completing Makers Bootcamp im excitedly waiting to land my first tech role! follow me to see how my journey goes.
 
