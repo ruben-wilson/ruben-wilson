@@ -24,7 +24,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Projects 
 
+| **Name** | **Description** | **Tech/tools** |
+| ---      | ---             | ---            |
+| reefRunner| a side scroller game| JS, Phaser.js and html canvas |
+| Acebook | a Facebook clone. | node, express, jest, nodemon, hbs, mongoose and cypress |
+| Makers BnB | a Airbnb clone. | sinatra, rackup, rspec, postgreSQL, tableplus and bootstrap |
+| NotesApp | a dynamic note taking web app. | node, jest, prettier and nodemon |
+| chitter | a twitter clone| sinatra, rackup, rspec, postgresSQL, tableplus and postman |
 
 ## Experience
 ### Makers Academy (July 2022 to October 2022)
