@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 | reefRunner| a side scroller game| JS, Phaser.js and html canvas |
 | Acebook | a Facebook clone. | node, express, jest, nodemon, hbs, mongoose and cypress |
 | Makers BnB | a Airbnb clone. | sinatra, rackup, rspec, postgreSQL, tableplus and bootstrap |
-| NotesApp | a dynamic note taking web app. | node, jest, prettier and nodemon |
+| tasksApp | a dynamic note taking web app. | node, jest, express and nodemon |
 | chitter | a twitter clone| sinatra, rackup, rspec, postgresSQL, tableplus and postman |
 
 ## Experience
