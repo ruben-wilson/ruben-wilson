@@ -2,10 +2,8 @@
 
 ### A twenty-one-year-old junior developer with a passion for technology. After recenlty completing Makers Bootcamp im excitedly waiting to land my first tech role! follow me to see how my journey goes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- ⚡ Fun fact: ...
--  📫 How to reach me: ...
+- 🔭 I’m currently working on [Tasks-App](https://github.com/ruben-wilson/tasks-app) 
+-  📫 How to reach me: rwilson_connell@gmail.com
 
 ![For hire](https://img.shields.io/badge/Available_for_hire-Yes-brightgreen) ![Contactable](https://img.shields.io/badge/Contactable-Absolutely_Anytime-yellow) ![Status](https://img.shields.io/badge/Status-Actively_searching_for_a_job-ff69b4) ![Last updated](https://img.shields.io/badge/Last_updated-October_2022-blue)
 
@@ -19,11 +17,11 @@
 
 | **Name** | **Description** | **Tech/tools** |
 | ---      | ---             | ---            |
-| reefRunner| a side scroller game| JS, Phaser.js and html canvas |
-| Acebook | a Facebook clone. | node, express, jest, nodemon, hbs, mongoose and cypress |
-| Makers BnB | a Airbnb clone. | sinatra, rackup, rspec, postgreSQL, tableplus and bootstrap |
-| tasksApp | a dynamic note taking web app. | node, jest, express and nodemon |
-| chitter | a twitter clone| sinatra, rackup, rspec, postgresSQL, tableplus and postman |
+| (reefRunner)[https://github.com/ruben-wilson/team-sea-urchins]| a side scroller game| JS, Phaser.js and html canvas |
+| (Acebook)[https://github.com/ruben-wilson/acebook-node-slugs] | a Facebook clone. | node, express, jest, nodemon, hbs, mongoose and cypress |
+| (Makers BnB)[https://github.com/ruben-wilson/makersbnb]| a Airbnb clone. | sinatra, rackup, rspec, postgreSQL, tableplus and bootstrap |
+| (tasksApp)[https://github.com/ruben-wilson/tasks-app] | a dynamic note taking web app. | node, jest, express and nodemon |
+| (chitter)[https://github.com/ruben-wilson/chitter-challenge] | a twitter clone| sinatra, rackup, rspec, postgresSQL, tableplus and postman |
 
 ## Experience
 ### Makers Academy (July 2022 to October 2022)
