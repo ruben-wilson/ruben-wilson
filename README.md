@@ -36,6 +36,7 @@ An intensive 16-week Bootcamp focusing on:
 	our projects adaptable and quick to deploy -  this involved tools such as Trello, Miro, GitHub projects and Notion.
 - Learning strategies and fundamental concepts to allow for quick learning of various languages and technologies.
 
+
 ### 💻 &nbsp;Languages:
 
 ![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript)&nbsp;
