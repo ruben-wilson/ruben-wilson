@@ -1,6 +1,6 @@
 # Hi im Ruben Wilson 👋
 
-### A twenty-one-year-old junior developer with a passion for technology. After recenlty completing Makers Bootcamp im excitedly waiting to land my first tech role! follow me to see how my journey goes.
+### A junior developer with a passion for technology. After recenlty completing Makers Bootcamp im excitedly waiting to land my first tech role! follow me to see how my journey goes.
 
 - 🔭 I’m currently working on [Multi-Note](https://github.com/ruben-wilson/tasks-app) 
 - 📫 How to reach me: rwilson_connell@yahoo.com
