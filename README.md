@@ -20,10 +20,10 @@
 | **Name** | **Description** | **Tech/tools** |
 | ---      | ---             | ---            |
 |[reefRunner](https://github.com/ruben-wilson/team-sea-urchins)| side scroller game | JS, Phaser.js and html canvas |
-|[Acebook](https://github.com/ruben-wilson/acebook-node-slugs) | Facebook clone | node, express, jest, nodemon, hbs, mongoose and cypress |
-|[Makers BnB](https://github.com/ruben-wilson/makersbnb)| Airbnb clone | sinatra, rackup, rspec, postgreSQL, tableplus and bootstrap |
+|[Acebook](https://github.com/ruben-wilson/acebook-node-slugs) | Facebook like social media app | node, express, jest, nodemon, hbs, mongoose and cypress |
+|[Makers BnB](https://github.com/ruben-wilson/makersbnb)| a website for booking and renting out b and bs | sinatra, rackup, rspec, postgreSQL, tableplus and bootstrap |
 |[tasksApp](https://github.com/ruben-wilson/tasks-app) | a dynamic note taking web app | node, jest, express and nodemon |
-|[chitter](https://github.com/ruben-wilson/chitter-challenge) | a twitter clone| sinatra, rackup, rspec, postgresSQL, tableplus and postman |
+|[chitter](https://github.com/ruben-wilson/chitter-challenge) | a socail media platform based off twitter | sinatra, rackup, rspec, postgresSQL, tableplus and postman |
 
 ## Experience
 ### Makers Academy (July 2022 to October 2022)
