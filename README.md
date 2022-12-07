@@ -1,5 +1,5 @@
 # Hi im Ruben Wilson 👋
-
+Cancel changes
 ### A junior developer with a passion for technology. After recenlty completing Makers Bootcamp im excitedly waiting to land my first tech role! follow me to see how my journey goes.
 
 - 🔭 I’m currently working on [Multi-Note](https://github.com/ruben-wilson/tasks-app) 
@@ -10,6 +10,9 @@
 ![For hire](https://img.shields.io/badge/Available_for_hire-Yes-brightgreen) ![Contactable](https://img.shields.io/badge/Contactable-Absolutely_Anytime-yellow) ![Status](https://img.shields.io/badge/Status-Actively_searching_for_a_job-ff69b4) ![Last updated](https://img.shields.io/badge/Last_updated-October_2022-blue)
 <p align="center">
 	<img src="https://komarev.com/ghpvc/?username=brijeshpujara&color=blueviolet&style=flat-square&label=Profile+Views" />
+	<a href="https://www.linkedin.com/in/ruben-wilson-6a774a254/">
+		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+	</a>
 </p>
 
 <p align="center">
