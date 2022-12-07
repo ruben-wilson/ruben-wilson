@@ -24,7 +24,7 @@
 |[Makers BnB](https://github.com/ruben-wilson/makersbnb)| a website for booking and renting out b and bs | sinatra, rackup, rspec, postgreSQL, tableplus and bootstrap |
 |[tasksApp](https://github.com/ruben-wilson/tasks-app) | a dynamic note taking web app | node, jest, express and nodemon |
 |[bank tech test](https://github.com/ruben-wilson/bank-tech-test)| tech test of OOP, TDD process | jest, javaScript, pritter |
-|[chitter](https://github.com/ruben-wilson/chitter-challenge) | a socail media platform based off twitter | sinatra, rackup, rspec, postgresSQL, tableplus and postman |
+
 
 ## Experience
 ### Makers Academy (July 2022 to October 2022)
