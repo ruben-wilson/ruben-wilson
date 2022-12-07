@@ -14,7 +14,7 @@ Cancel changes
 	<a href="https://www.linkedin.com/in/ruben-wilson-6a774a254/">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
-	<a href="mailto:pujara.brijesh1@gmail.com">
+	<a href="mailto:rwilson_connell@yahoo.com">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
 </p>
