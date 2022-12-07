@@ -7,18 +7,15 @@ Cancel changes
 - 📋 My External [CV](https://github.com/ruben-wilson/CV/blob/master/Makers%20CV-%20Software%20Engineer%20.pdf)
 - 🐙 My Github [CV](https://github.com/ruben-wilson/CV/blob/master/README.md)
 
-![For hire](https://img.shields.io/badge/Available_for_hire-Yes-brightgreen) ![Contactable](https://img.shields.io/badge/Contactable-Absolutely_Anytime-yellow) ![Status](https://img.shields.io/badge/Status-Actively_searching_for_a_job-ff69b4) ![Last updated](https://img.shields.io/badge/Last_updated-October_2022-blue)<img src="https://komarev.com/ghpvc/?username=brijeshpujara&color=blueviolet&style=flat-square&label=Profile+Views" />
+![For hire](https://img.shields.io/badge/Available_for_hire-Yes-brightgreen) ![Contactable](https://img.shields.io/badge/Contactable-Absolutely_Anytime-yellow) ![Status](https://img.shields.io/badge/Status-Actively_searching_for_a_job-ff69b4) ![Last updated](https://img.shields.io/badge/Last_updated-October_2022-blue) <img src="https://komarev.com/ghpvc/?username=ruben-wilson&color=blueviolet&style=flat-square&label=Profile+Views" />
+
 
 <p align="center">
-	<img src="https://komarev.com/ghpvc/?username=brijeshpujara&color=blueviolet&style=flat-square&label=Profile+Views" />
 	<a href="https://www.linkedin.com/in/ruben-wilson-6a774a254/">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
-</p>
-
-<p align="center">
-	<a href="https://www.linkedin.com/in/ruben-wilson-6a774a254/">
-		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+	<a href="mailto:pujara.brijesh1@gmail.com">
+		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
 </p>
 
