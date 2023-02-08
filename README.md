@@ -7,7 +7,7 @@ Cancel changes
 - 📋 My External [CV](https://github.com/ruben-wilson/CV/blob/master/Makers%20CV-%20Software%20Engineer%20.pdf)
 - 🐙 My Github [CV](https://github.com/ruben-wilson/CV/blob/master/README.md)
 
-![For hire](https://img.shields.io/badge/Available_for_hire-Yes-brightgreen) ![Contactable](https://img.shields.io/badge/Contactable-Absolutely_Anytime-yellow) ![Status](https://img.shields.io/badge/Status-Actively_searching_for_a_job-ff69b4) ![Last updated](https://img.shields.io/badge/Last_updated-October_2022-blue) <img src="https://komarev.com/ghpvc/?username=ruben-wilson&color=blueviolet&style=flat-square&label=Profile+Views" />
+![For hire](https://img.shields.io/badge/Available_for_hire-Yes-brightgreen) ![Contactable](https://img.shields.io/badge/Contactable-Absolutely_Anytime-yellow) ![Status](https://img.shields.io/badge/Status-Actively_searching_for_a_job-ff69b4) ![Last updated](https://img.shields.io/badge/Last_updated-October_2022-blue) <img src="https://komarev.com/ghpvc/?username=ruben-wilson&color=blueviolet&style=flat-square&label=Profile+Views+200" />
 
 
 <p align="center">
